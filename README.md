@@ -50,3 +50,7 @@ Sentiment Prediction (Positive / Negative)
 - Streamlit
 - Uvicorn
 
+## Install Dependencies
+ 
+ -pip install torch transformers datasets fastapi uvicorn streamlit requests
+
