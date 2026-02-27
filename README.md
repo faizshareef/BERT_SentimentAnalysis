@@ -40,4 +40,13 @@ Sentiment Prediction (Positive / Negative)
 
 ---
 
+## 🛠️ Tech Stack
+
+- Python
+- PyTorch
+- Hugging Face Transformers
+- Hugging Face Datasets
+- FastAPI
+- Streamlit
+- Uvicorn
 
