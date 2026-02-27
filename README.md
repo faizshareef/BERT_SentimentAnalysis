@@ -40,10 +40,4 @@ Sentiment Prediction (Positive / Negative)
 
 ---
 
-## 📦 Installation
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/bert-sentiment-analysis.git
-cd bert-sentiment-analysis
