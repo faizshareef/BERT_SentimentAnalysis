@@ -104,7 +104,7 @@ def predict_api(request: TextRequest):
 
 # Streamlit frontend
 def run_streamlit():
-    st.title("Sentiment Analysis using BERT")
+    st.title("BERT Sentiment Analysis")
     
     # User input for text to analyze
     user_input = st.text_area("Enter text for sentiment analysis:", "I love this product!")
