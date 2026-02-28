@@ -54,3 +54,13 @@ Sentiment Prediction (Positive / Negative)
  
  -pip install torch transformers datasets fastapi uvicorn streamlit requests
 
+---
+ 
+## Project Outputs
+
+<img width="1024" height="615" alt="sent_output1" src="https://github.com/user-attachments/assets/4ace3284-c501-43a8-8c0a-c620bb8a94dc" />
+
+<img width="1009" height="560" alt="sent_output2" src="https://github.com/user-attachments/assets/fe9320c9-6fa5-49de-b6d7-2d6ae1bc1868" />
+
+
+
